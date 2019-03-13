@@ -3,10 +3,11 @@ layout: cv
 title: Alejandro de la Vega's C
 ---
 # Alejandro de la Vega
+Curriculum Vitae
 
-<div id="adelavega.github.io">
-<a href="delavega@utexas.edu">delavega@utexas.edu</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="webaddress>
+<a href="mailto:delavega@utexas.edu">delavega@utexas.edu</a>
+| <a href="http://adelavega@github.io">Website</a>
 </div>
 
 
