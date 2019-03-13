@@ -16,7 +16,7 @@ Email: delavega@utexas.edu
 `2016-`
 Postdoctoral Fellow, Department of Psychology, University of Texas at Austin
 
-`2006`
+`2016`
 Ph.D., Cognitive Neuroscience, University of Colorado Boulder
 
 `2012`
