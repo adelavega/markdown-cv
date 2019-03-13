@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Alejandro de la Vega's C
+title: Alejandro de la Vega's CV
 ---
 # Alejandro de la Vega
 Curriculum Vitae
@@ -28,10 +28,20 @@ __B.A., Linguistics and Cognitive Science, Pomona College__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+Winner, Open Science Naturalistic Viewing Competition, OHBM.
 
-Associate, *French Academy of Science*, Paris, France
+`2017` 
+Fellow, Neurohackweek2012 Fellow, Summer Institute in Cognitive Neuroscience
+
+`2011` 
+Ford Foundation Fellowship, Honorable Mention (Alternate)
+
+`2010` 
+National Science Foundation, Predoctoral Fellowship, Honorable Mention
+
+`2010` 
+fMRI Training Course fellowship, University of Michigan-Ann Arb
 
 
 
