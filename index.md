@@ -5,7 +5,7 @@ title: Alejandro de la Vega's C
 # Alejandro de la Vega
 Curriculum Vitae
 
-<div id="webaddress>
+<div id="webaddress">
 <a href="mailto:delavega@utexas.edu">delavega@utexas.edu</a>
 | <a href="http://adelavega@github.io">Website</a>
 </div>
