@@ -120,8 +120,6 @@ De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solutio
 `2017`
 De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2017). A cloud-based platform for flexible re- analysis of naturalistic fMRI datasets. International Neuroinformatics Coordinating Facility Congress. Kuala Lumpur, Malaysia.
 
-### Posters
-
 ## Professional Service
 `2018`
 
