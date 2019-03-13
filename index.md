@@ -76,7 +76,7 @@ Knowledge Discovery and Data Mining*. Pages 1567-1574.
 __De La Vega, A.__ & Yarkoni, T. (2016). Response to Moreira et al. Journal Club. *Journal of Neuroscience*.
 
 
-`2016`
+`2016`https://adelavega.github.io/markdown-cv/
 __De La Vega, A.__, Chang, L.J., Banich, M.T., Wager, T.D., & Yarkoni, T. (2016). Large-scale meta-
 analysis of human medial frontal cortex reveals tripartite functional organization. *Journal of
 Neuroscience*. 36(24):6553-6562.
@@ -89,7 +89,7 @@ Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502.
 `2013`
 Michaelson\*, L., __De La Vega\*, A.__, Chatham, C.H., & Munakata, Y. (2013). Delaying gratification
 depends on social trust. *Frontiers in Psychology*. 4, 355.
-*\* co-first authors*
+*\* co-first authors*https://adelavega.github.io/markdown-cv/
 
 `2013`
 Banich, M.T., __De La Vega, A.__, Andrews-Hanna, J.R., Mackiewicz-Seghete, K., Du., Y., & Claus E.D.

@@ -69,6 +69,10 @@ p {
 	width: 60%;
 }
 
+link-cv {
+	display:none
+}
+
 code {
 	font: normal normal;
 	font-size: 90%;
