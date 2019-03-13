@@ -10,35 +10,19 @@ Curriculum Vitae
 | <a href="http://adelavega@github.io">Website</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-`
+__Postdoctoral Fellow, Department of Psychology, University of Texas at Austin__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006`
+__Ph.D., Cognitive Neuroscience, University of Colorado Boulder__
 
-- Sizar
+`2012`
+__M.A., Cognitive Psychology, University of Colorado Boulder__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2009`
+__B.A., Linguistics and Cognitive Science, Pomona College__
 
 
 
