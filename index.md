@@ -13,7 +13,7 @@ Email: delavega@utexas.edu
 
 ## Education
 
-`2016-now`
+`2016-`
 Postdoctoral Fellow, Department of Psychology, University of Texas at Austin
 
 `2006`
@@ -51,27 +51,26 @@ National Science Foundation, Predoctoral Fellowship, Honorable Mention
 fMRI Training Course fellowship, University of Michigan-Ann Arbor
 
 
-## Publications
+## Scientific Contributions
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=DO_FaXIAAAAJ&hl=en) -->
 
-### Papers
+### Publications
 
 
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
 (2018). Heterogeneity within the frontoparietal control network and its relationship to the default and
-dorsal attention networks. *Proceedings of the National Academy of Sciences*.
+dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607.
 
 `2017`
-
 __De La Vega, A.__, Tarkoni, T., Wager, T.D., & Banich, M.T. (2017). Large-scale meta-analysis suggests
-low regional modularity in lateral frontal cortex. *Cerebral Cortex*.
-De
+low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428.
+
 `2017`
 McNamara, Q., __De La Vega, A.__, & Yarkoni, T. (2017). Developing a comprehensive framework for
 multimodal feature extraction. *Proceedings of the 22nd ACM SIGKDD International Conference on
-Knowledge Discovery and Data Mining*.
+Knowledge Discovery and Data Mining*. Pages 1567-1574.
 
 `2016`
 __De La Vega, A.__ & Yarkoni, T. (2016). Response to Moreira et al. Journal Club. *Journal of Neuroscience*.
@@ -82,21 +81,20 @@ __De La Vega, A.__, Chang, L.J., Banich, M.T., Wager, T.D., & Yarkoni, T. (2016)
 analysis of human medial frontal cortex reveals tripartite functional organization. *Journal of
 Neuroscience*. 36(24):6553-6562.
 
-
 `2014`
 __De La Vega, A.__, Brown, M.S., Snyder, H.R., Singel, D., Munakata, Y., Banich, M.T. (2014). Individual
 Differences in the Balance of GABA to Glutamate in pFC Predict the Ability to Select among
-Competing Options. *Journal of Cognitive Neuroscience*. Vol. 26, No. 11, Pages 2490-2502.
+Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502.
 
 `2013`
 Michaelson\*, L., __De La Vega\*, A.__, Chatham, C.H., & Munakata, Y. (2013). Delaying gratification
-depends on social trust. *Frontiers in Psychology*. Vol 4(00355).
+depends on social trust. *Frontiers in Psychology*. 4, 355.
 *\* co-first authors*
 
 `2013`
 Banich, M.T., __De La Vega, A.__, Andrews-Hanna, J.R., Mackiewicz-Seghete, K., Du., Y., & Claus E.D.
 (2013). Developmental trends and individual differences in brain systems involved in intertemporal
-choice during adolescence. *Journal of Addictive Behaviors*. Vol 27(2), Jun 2013, 416-430.
+choice during adolescence. *Journal of Addictive Behaviors*. 27(2), 416–430.
 
 
 ### Open Source Software
@@ -133,10 +131,11 @@ GigaScience (x3), Neuroimage (x3), eNeuro, Cerebral Cortex, Scientific Reports, 
 `2013-2016`
 
 Computer Laboratory for Instruction in Psychological Research (CLIPR) TA.
+
  - Developed and taught three part series, R for Psychologists every semester.
 
 `2012-2013`
-Teaching, Assistant, General Statistics & Cognitive Neuroscience
+Teaching Assistant, General Statistics & Cognitive Neuroscience
 
 <br>
 
