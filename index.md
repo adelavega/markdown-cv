@@ -1,12 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alejandro de la Vega's C
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alejandro de la Vega
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<div id="adelavega.github.io">
+<a href="delavega@utexas.edu">delavega@utexas.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
