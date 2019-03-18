@@ -124,7 +124,7 @@ De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2017). A cloud-based plat
 Co-Organizer, Austin Code Rodeo Neurofinromatics Hackathon
 
 ### Ad-hoc peer review
-GigaScience (x3), Neuroimage (x3), eNeuro, Cerebral Cortex, Scientific Reports, Annual Conference on Cognitive  omputational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences.
+GigaScience (x3), Neuroimage (x3), eNeuro, Cerebral Cortex, Scientific Reports, Annual Conference on Cognitive Computational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences.
 
 
 ## Teaching
