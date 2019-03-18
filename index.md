@@ -105,7 +105,7 @@ __De La Vega, A.__, Blair, R., Razavi, P., & Yarkoni, T. (2019, March 13). neuro
 Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, Gorgolewski, K.J., Salo, T., Halchenko, Y.O.., … Blair, R. (2019, February 15). bids-standard/pybids: 0.8.0 (Version 0.8.0). Zenodo. http://doi.org/10.5281/zenodo.2566511
 
 `2019`
-Markiewicz, C.J., __De La Vega, A__,, Wagner, A., Halchenko, Y.O., Poldrack, R.A., & Gorgolewski, K.J. (2019, February 1). poldracklab/fitlins: 0.2.0 (Version 0.2.0). Zenodo. http://doi.org/10.5281/zenodo.2555453
+Markiewicz, C.J., __De La Vega, A__, Wagner, A., Halchenko, Y.O., Poldrack, R.A., & Gorgolewski, K.J. (2019, February 1). poldracklab/fitlins: 0.2.0 (Version 0.2.0). Zenodo. http://doi.org/10.5281/zenodo.2555453
 
 ## Presentations
 ### Talks
