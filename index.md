@@ -147,4 +147,4 @@ Teaching Assistant, General Statistics & Cognitive Neuroscience
 
 <br>
 
-*Last updated: March 2019*
+*Last updated: June 2019*
