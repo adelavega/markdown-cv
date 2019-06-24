@@ -11,10 +11,15 @@ Email: delavega@utexas.edu
 <br><a href="https://github.com/adelavega">Github: http://github.com/adelavega</a>
 </div>
 
-## Education
+## Experience
+`2019-`
+Research Scientist, Department of Psychology, University of Texas at Austin
 
-`2016-`
+`2016-2019`
 Postdoctoral Fellow, Department of Psychology, University of Texas at Austin
+
+
+## Education
 
 `2016`
 Ph.D., Cognitive Neuroscience, University of Colorado Boulder
@@ -110,7 +115,7 @@ Markiewicz, C.J., __De La Vega, A__, Wagner, A., Halchenko, Y.O., Poldrack, R.A.
 ## Presentations
 ### Talks
 `2019`
-De La Vega, A., McNamara, Q., Blair, R., Hanke, M, & Yarkoni, T. (accepted). Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
+De La Vega, A., McNamara, Q., Blair, R., Hanke, M, & Yarkoni, T. (2019). Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
 
 `2018`
 De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solution for rapid and flexible (re)analysis of naturalistic fMRI data. Organization for Human Brain Mapping. Singapore, Singapore.
@@ -119,12 +124,15 @@ De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solutio
 De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2017). A cloud-based platform for flexible re- analysis of naturalistic fMRI datasets. International Neuroinformatics Coordinating Facility Congress. Kuala Lumpur, Malaysia.
 
 ## Professional Service
+`2019`
+Chair, Neuroinformatics and Data Sharing Session, Organization for Human Brain Mapping, Rome, Italy, 2019
+
 `2018`
 
 Co-Organizer, Austin Code Rodeo Neuroinformatics Hackathon
 
 ### Ad-hoc peer review
-GigaScience (x3), Neuroimage (x3), eNeuro, Cerebral Cortex, Scientific Reports, Annual Conference on Cognitive Computational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences.
+GigaScience (x3), Neuroimage (x3), eNeuro, Annual Conference on Cognitive Computational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Scientific Reports, Neuropsychologia.
 
 
 ## Teaching
