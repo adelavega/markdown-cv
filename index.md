@@ -62,6 +62,8 @@ Fellow, fMRI Training Course, University of Michigan-Ann Arbor
 
 ### Publications
 
+`2019` 
+Brieger, K., Zajac, G.J.M, Pandit, A., Foerster, J.R., Li, K.W., Annis, A.C., Schmidt, E.M., Clark, C.P., McMorrow, K., Zhou, W., Yang, J., Kwong, A.M., Boughton, A.P., Wu, J., Scheller, C., Parikh, T., __De La Vega, A.__, Brazel, D.M., Frieser, M., Rea-Sandin, G., Fritsche, L.G., Vrieze, S.I., Abecasis, G.R. (in press). Genes for Good: Engaging the Public in Genetics Research via Social Media. *American Journal of Human Genetics*. 
 
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
