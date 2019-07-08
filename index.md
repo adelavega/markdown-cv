@@ -68,40 +68,37 @@ Brieger, K., Zajac, G.J.M, Pandit, A., Foerster, J.R., Li, K.W., Annis, A.C., Sc
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
 (2018). Heterogeneity within the frontoparietal control network and its relationship to the default and
-dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607.
+dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607. [<a href='https://github.com/adelavega/fpcn_fractionation'>github</a>]
 
 `2017`
 __De La Vega, A.__, Tarkoni, T., Wager, T.D., & Banich, M.T. (2017). Large-scale meta-analysis suggests
-low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428.
+low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428. [<a href='https://github.com/adelavega/neurosynth-lfc'>github</a>]
 
 `2017`
 McNamara, Q., __De La Vega, A.__, & Yarkoni, T. (2017). Developing a comprehensive framework for
 multimodal feature extraction. *Proceedings of the 22nd ACM SIGKDD International Conference on
-Knowledge Discovery and Data Mining*. Pages 1567-1574.
-
-`2016`
-__De La Vega, A.__ & Yarkoni, T. (2016). Response to Moreira et al. Journal Club. *Journal of Neuroscience*.
-
+Knowledge Discovery and Data Mining*. Pages 1567-1574. [<a href="https://adelavega.github.io/pdfs/McNamara_KDD_2017.pdf">pdf</a>]
 
 `2016`
 __De La Vega, A.__, Chang, L.J., Banich, M.T., Wager, T.D., & Yarkoni, T. (2016). Large-scale meta-
 analysis of human medial frontal cortex reveals tripartite functional organization. *Journal of
-Neuroscience*. 36(24):6553-6562.
+Neuroscience*. 36(24):6553-6562. <a href="https://adelavega.github.io/pdfs/DeLaVega_2016.pdf">[pdf]</a> [<a class="under" href="http://jneurosci.org/content/36/44/11168">Journal Club review</a>] [<a href="https://adelavega.github.io/pdfs/Moreira_response.pdf">our response</a>]
+         
 
 `2014`
 __De La Vega, A.__, Brown, M.S., Snyder, H.R., Singel, D., Munakata, Y., Banich, M.T. (2014). Individual
 Differences in the Balance of GABA to Glutamate in pFC Predict the Ability to Select among
-Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502.
+Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502. [<a href="https://adelavega.github.io/pdfs/DeLaVega_2014.pdf">pdf</a>]
 
 `2013`
 Michaelson\*, L., __De La Vega\*, A.__, Chatham, C.H., & Munakata, Y. (2013). Delaying gratification
-depends on social trust. *Frontiers in Psychology*. 4, 355.
+depends on social trust. *Frontiers in Psychology*. 4, 355. [<a href="https://adelavega.github.io/pdfs/Michaelson_DeLaVega_etal_2013.pdf">pdf</a>]
 *\* co-first authors*
 
 `2013`
 Banich, M.T., __De La Vega, A.__, Andrews-Hanna, J.R., Mackiewicz-Seghete, K., Du., Y., & Claus E.D.
 (2013). Developmental trends and individual differences in brain systems involved in intertemporal
-choice during adolescence. *Journal of Addictive Behaviors*. 27(2), 416–430.
+choice during adolescence. *Journal of Addictive Behaviors*. 27(2), 416–430. [<a href="https://adelavega.github.io/pdfs/Banich_DeLaVega_etal_2013.pdf">pdf</a>]
 
 
 ### Open Source Software
