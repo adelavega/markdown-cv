@@ -134,7 +134,7 @@ Chair, Neuroinformatics and Data Sharing Session, Organization for Human Brain M
 Co-Organizer, Austin Code Rodeo Neuroinformatics Hackathon
 
 ### Ad-hoc peer review
-GigaScience (x3), Neuroimage (x3), eNeuro, Annual Conference on Cognitive Computational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Scientific Reports, Neuropsychologia.
+Neuroimage (x4), GigaScience (x3), Scientific Reports (x2), Annual Conference on Cognitive Computational Neuroscience (x2),  eNeuro, Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Neuropsychologia, PLOS One.
 
 
 ## Teaching
