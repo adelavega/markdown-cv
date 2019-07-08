@@ -68,11 +68,11 @@ Brieger, K., Zajac, G.J.M, Pandit, A., Foerster, J.R., Li, K.W., Annis, A.C., Sc
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
 (2018). Heterogeneity within the frontoparietal control network and its relationship to the default and
-dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607. [<a href='https://github.com/adelavega/fpcn_fractionation'>github</a>]
+dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607. [<a href="https://adelavega.github.io/pdfs/Dixon_2018.pdf">pdf</a>] [<a href='https://github.com/adelavega/fpcn_fractionation'>github</a>]
 
 `2017`
 __De La Vega, A.__, Tarkoni, T., Wager, T.D., & Banich, M.T. (2017). Large-scale meta-analysis suggests
-low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428. [<a href='https://github.com/adelavega/neurosynth-lfc'>github</a>]
+low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428. [<a href="https://adelavega.github.io/pdfs/DeLaVega_2018.pdf">pdf</a>] [<a href='https://github.com/adelavega/neurosynth-lfc'>github</a>]
 
 `2017`
 McNamara, Q., __De La Vega, A.__, & Yarkoni, T. (2017). Developing a comprehensive framework for
