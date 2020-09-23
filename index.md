@@ -57,6 +57,16 @@ Fellow, fMRI Training Course, University of Michigan-Ann Arbor
 
 ### Publications
 
+`2020`
+Esteban, O., Ciric, R., Finc, K., ... , __De La Vega, A.__ ..., Gorgolewski, K.J., (2020).
+Analysis of task-based functional MRI data preprocessed with fMRIPrep. *Nature Protocols*. 1-17.
+
+`2019`
+Brieger, K., Zajac, G.J.M., Pandit, A., ... __De La Vega, A.__ ..., Abecasis G.R.,
+(2019). Genes for good: engaging the public in genetics research via social media. *The American Journal of Human Genetics*. 105(1).
+
+Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, et al. (2019). PyBIDS: Python tools for BIDS datasets.
+*Journal of Open Source Software*. 4(40).
 
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
