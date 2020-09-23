@@ -67,10 +67,9 @@ Esteban, O., Ciric, R., Finc, K., ... , __De La Vega, A.__ ..., Gorgolewski, K.J
 Analysis of task-based functional MRI data preprocessed with fMRIPrep. *Nature Protocols*. 1-17.
 
 `2019`
-Brieger, K., Zajac, G.J.M., Pandit, A., ... __De La Vega, A.__ ..., Abecasis G.R.,
-(2019). Genes for good: engaging the public in genetics research via social media. *The American Journal of Human Genetics*. 105(1).
+Brieger, K., Zajac, G.J.M, Pandit, A., Foerster, J.R., Li, K.W., Annis, A.C., Schmidt, E.M., Clark, C.P., McMorrow, K., Zhou, W., Yang, J., Kwong, A.M., Boughton, A.P., Wu, J., Scheller, C., Parikh, T., __De La Vega, A.__, Brazel, D.M., Frieser, M., Rea-Sandin, G., Fritsche, L.G., Vrieze, S.I., Abecasis, G.R. (in press). Genes for Good: Engaging the Public in Genetics Research via Social Media. *American Journal of Human Genetics*.
 
-Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, et al. (2019). PyBIDS: Python tools for BIDS datasets.
+Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, et al. (2019). PyBIDS: Python tools for BIDS Datasets.
 *Journal of Open Source Software*. 4(40).
 
 `2018`
