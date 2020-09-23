@@ -11,10 +11,15 @@ Email: delavega@utexas.edu
 <br><a href="https://github.com/adelavega">Github: http://github.com/adelavega</a>
 </div>
 
-## Education
+## Experience
+`2019-`
+Research Scientist, Department of Psychology, University of Texas at Austin
 
-`2016-`
+`2016-2019`
 Postdoctoral Fellow, Department of Psychology, University of Texas at Austin
+
+
+## Education
 
 `2016`
 Ph.D., Cognitive Neuroscience, University of Colorado Boulder
@@ -71,40 +76,37 @@ Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, et al. (2019). PyBIDS: Python
 `2018`
 Dixon, M.L., __De La Vega, A.__, Mills, C., Andrews-Hanna, J., Spreng, R.N., Cole, M.W., & Christoff,K.
 (2018). Heterogeneity within the frontoparietal control network and its relationship to the default and
-dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607.
+dorsal attention networks. *Proceedings of the National Academy of Sciences*. 115(7), E1598-E1607. [<a href="https://adelavega.github.io/pdfs/Dixon_2018.pdf">pdf</a>] [<a href='https://github.com/adelavega/fpcn_fractionation'>github</a>]
 
 `2017`
 __De La Vega, A.__, Tarkoni, T., Wager, T.D., & Banich, M.T. (2017). Large-scale meta-analysis suggests
-low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428.
+low regional modularity in lateral frontal cortex. *Cerebral Cortex*. 28(10), 3414–3428. [<a href="https://adelavega.github.io/pdfs/DeLaVega_2018.pdf">pdf</a>] [<a href='https://github.com/adelavega/neurosynth-lfc'>github</a>]
 
 `2017`
 McNamara, Q., __De La Vega, A.__, & Yarkoni, T. (2017). Developing a comprehensive framework for
 multimodal feature extraction. *Proceedings of the 22nd ACM SIGKDD International Conference on
-Knowledge Discovery and Data Mining*. Pages 1567-1574.
-
-`2016`
-__De La Vega, A.__ & Yarkoni, T. (2016). Response to Moreira et al. Journal Club. *Journal of Neuroscience*.
-
+Knowledge Discovery and Data Mining*. Pages 1567-1574. [<a href="https://adelavega.github.io/pdfs/McNamara_KDD_2017.pdf">pdf</a>]
 
 `2016`
 __De La Vega, A.__, Chang, L.J., Banich, M.T., Wager, T.D., & Yarkoni, T. (2016). Large-scale meta-
 analysis of human medial frontal cortex reveals tripartite functional organization. *Journal of
-Neuroscience*. 36(24):6553-6562.
+Neuroscience*. 36(24):6553-6562. <a href="https://adelavega.github.io/pdfs/DeLaVega_2016.pdf">[pdf]</a> [<a class="under" href="http://jneurosci.org/content/36/44/11168">Journal Club review</a>] [<a href="https://adelavega.github.io/pdfs/Moreira_response.pdf">our response</a>]
+
 
 `2014`
 __De La Vega, A.__, Brown, M.S., Snyder, H.R., Singel, D., Munakata, Y., Banich, M.T. (2014). Individual
 Differences in the Balance of GABA to Glutamate in pFC Predict the Ability to Select among
-Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502.
+Competing Options. *Journal of Cognitive Neuroscience*. 26(11), 2490-2502. [<a href="https://adelavega.github.io/pdfs/DeLaVega_2014.pdf">pdf</a>]
 
 `2013`
 Michaelson\*, L., __De La Vega\*, A.__, Chatham, C.H., & Munakata, Y. (2013). Delaying gratification
-depends on social trust. *Frontiers in Psychology*. 4, 355.
+depends on social trust. *Frontiers in Psychology*. 4, 355. [<a href="https://adelavega.github.io/pdfs/Michaelson_DeLaVega_etal_2013.pdf">pdf</a>]
 *\* co-first authors*
 
 `2013`
 Banich, M.T., __De La Vega, A.__, Andrews-Hanna, J.R., Mackiewicz-Seghete, K., Du., Y., & Claus E.D.
 (2013). Developmental trends and individual differences in brain systems involved in intertemporal
-choice during adolescence. *Journal of Addictive Behaviors*. 27(2), 416–430.
+choice during adolescence. *Journal of Addictive Behaviors*. 27(2), 416–430. [<a href="https://adelavega.github.io/pdfs/Banich_DeLaVega_etal_2013.pdf">pdf</a>]
 
 
 ### Open Source Software
@@ -120,7 +122,7 @@ Markiewicz, C.J., __De La Vega, A__, Wagner, A., Halchenko, Y.O., Poldrack, R.A.
 ## Presentations
 ### Talks
 `2019`
-De La Vega, A., McNamara, Q., Blair, R., Hanke, M, & Yarkoni, T. (accepted). Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
+De La Vega, A., McNamara, Q., Blair, R., Hanke, M, & Yarkoni, T. (2019). Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
 
 `2018`
 De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solution for rapid and flexible (re)analysis of naturalistic fMRI data. Organization for Human Brain Mapping. Singapore, Singapore.
@@ -129,12 +131,15 @@ De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solutio
 De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2017). A cloud-based platform for flexible re- analysis of naturalistic fMRI datasets. International Neuroinformatics Coordinating Facility Congress. Kuala Lumpur, Malaysia.
 
 ## Professional Service
+`2019`
+Chair, Neuroinformatics and Data Sharing Session, Organization for Human Brain Mapping, Rome, Italy, 2019
+
 `2018`
 
 Co-Organizer, Austin Code Rodeo Neuroinformatics Hackathon
 
 ### Ad-hoc peer review
-GigaScience (x3), Neuroimage (x3), eNeuro, Cerebral Cortex, Scientific Reports, Annual Conference on Cognitive Computational Neuroscience (x2), Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences.
+Neuroimage (x5), GigaScience (x3), Scientific Reports (x2), Annual Conference on Cognitive Computational Neuroscience (x2),  eNeuro, Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Neuropsychologia (2x), PLOS One.
 
 
 ## Teaching
@@ -149,4 +154,4 @@ Teaching Assistant, General Statistics & Cognitive Neuroscience
 
 <br>
 
-*Last updated: March 2019*
+*Last updated: July 2019*
