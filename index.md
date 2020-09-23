@@ -63,13 +63,13 @@ Fellow, fMRI Training Course, University of Michigan-Ann Arbor
 ### Publications
 
 `2020`
-Esteban, O., Ciric, R., Finc, K., ... , __De La Vega, A.__ , ..., Gorgolewski, K.J., (2020).
+Esteban, O., Ciric, R., Finc, K., ... , __De La Vega, A.__ , ..., Gorgolewski, K.J. (2020).
 Analysis of task-based functional MRI data preprocessed with fMRIPrep. *Nature Protocols*. 1-17.
 
 `2019`
 Brieger, K., Zajac, G.J.M, Pandit, A., Foerster, J.R., Li, K.W., Annis, A.C., Schmidt, E.M., Clark, C.P., McMorrow, K., Zhou, W., Yang, J., Kwong, A.M., Boughton, A.P., Wu, J., Scheller, C., Parikh, T., __De La Vega, A.__, Brazel, D.M., Frieser, M., Rea-Sandin, G., Fritsche, L.G., Vrieze, S.I., Abecasis, G.R. (2019). Genes for Good: Engaging the Public in Genetics Research via Social Media. *American Journal of Human Genetics*.
 
-Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, et al. (2019). PyBIDS: Python tools for BIDS Datasets.
+Yarkoni, T., Markiewicz, C.J., __De La Vega, A.__, ... , Blair, R.W.,(2019). PyBIDS: Python tools for BIDS Datasets.
 *Journal of Open Source Software*. 4(40).
 
 `2018`
@@ -90,7 +90,6 @@ Knowledge Discovery and Data Mining*. Pages 1567-1574. [<a href="https://adelave
 __De La Vega, A.__, Chang, L.J., Banich, M.T., Wager, T.D., & Yarkoni, T. (2016). Large-scale meta-
 analysis of human medial frontal cortex reveals tripartite functional organization. *Journal of
 Neuroscience*. 36(24):6553-6562. <a href="https://adelavega.github.io/pdfs/DeLaVega_2016.pdf">[pdf]</a> [<a class="under" href="http://jneurosci.org/content/36/44/11168">Journal Club review</a>] [<a href="https://adelavega.github.io/pdfs/Moreira_response.pdf">our response</a>]
-
 
 `2014`
 __De La Vega, A.__, Brown, M.S., Snyder, H.R., Singel, D., Munakata, Y., Banich, M.T. (2014). Individual
@@ -120,25 +119,33 @@ Markiewicz, C.J., __De La Vega, A__, Wagner, A., Halchenko, Y.O., Poldrack, R.A.
 
 ## Presentations
 ### Talks
+`2020`
+Automated feature extraction with Pliers. Organization for Human Brain Mapping, Analysis Methods for Naturalistic Data Educational Course. Virtual.
+
 `2019`
-De La Vega, A., McNamara, Q., Blair, R., Hanke, M, & Yarkoni, T. (2019). Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
+Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Mozilla Data Club Brown Bag.
+
+`2019`
+Neuroscout: a cloud-based platform for flexible re-analysis of naturalistic fMRI datasets. Organization for Human Brain Mapping. Rome, Italy.
 
 `2018`
-De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2018). An turnkey solution for rapid and flexible (re)analysis of naturalistic fMRI data. Organization for Human Brain Mapping. Singapore, Singapore.
+An turnkey solution for rapid and flexible (re)analysis of naturalistic fMRI data. Organization for Human Brain Mapping. Singapore, Singapore.
 
 `2017`
-De La Vega, A., McNamara, Q., Hanke, M, & Yarkoni, T. (2017). A cloud-based platform for flexible re- analysis of naturalistic fMRI datasets. International Neuroinformatics Coordinating Facility Congress. Kuala Lumpur, Malaysia.
+A cloud-based platform for flexible re- analysis of naturalistic fMRI datasets. International Neuroinformatics Coordinating Facility Congress. Kuala Lumpur, Malaysia.
 
 ## Professional Service
+`2020`
+Americas Hub Manager, Organization of Human Brain Mapping Hackathon, Virtual, 2020.
+
 `2019`
 Chair, Neuroinformatics and Data Sharing Session, Organization for Human Brain Mapping, Rome, Italy, 2019
 
 `2018`
-
 Co-Organizer, Austin Code Rodeo Neuroinformatics Hackathon
 
 ### Ad-hoc peer review
-Neuroimage (x5), GigaScience (x3), Scientific Reports (x2), Annual Conference on Cognitive Computational Neuroscience (x2),  eNeuro, Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Neuropsychologia (2x), PLOS One.
+Neuroimage (x5), GigaScience (x3), Scientific Reports (x2), Annual Conference on Cognitive Computational Neuroscience (x2),  eNeuro, Organization for Human Brain Mapping, Proceedings of the Python in Science Conferences, Cerebral Cortex, Neuropsychologia (x3), PLOS One.
 
 
 ## Teaching
@@ -153,4 +160,4 @@ Teaching Assistant, General Statistics & Cognitive Neuroscience
 
 <br>
 
-*Last updated: July 2019*
+*Last updated: September 2020*
